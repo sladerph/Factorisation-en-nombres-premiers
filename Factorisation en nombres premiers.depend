@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1521024427 source:c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\main.c
+	"main.h"
+
+1520949981 c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\structures.h
+
+1521021299 source:c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\calc.c
+	<stdlib.h>
+	<stdio.h>
+	"calc.h"
+	"structures.h"
+	"trees.h"
+
+1520983769 c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\calc.h
+	"structures.h"
+
+1520988959 source:c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\trees.c
+	<stdlib.h>
+	<stdio.h>
+	"trees.h"
+	"structures.h"
+
+1521021163 c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\trees.h
+	"structures.h"
+
+1521021096 c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\main.h
+	<stdlib.h>
+	<stdio.h>
+	"structures.h"
+	"calc.h"
+	"menus.h"
+	"trees.h"
+
+1521021412 c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\menus.h
+	"structures.h"
+
+1521027651 source:c:\users\slader_ph\desktop\e.i.h\projets info persos\factorisation en nombres premiers\menus.c
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	"menus.h"
+	"structures.h"
+
